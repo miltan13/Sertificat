@@ -1,3 +1,5 @@
+package Oll;
+
 public class Mountain {
     public  static String name = "Elbrus";
     public static Mountain getMountain () {

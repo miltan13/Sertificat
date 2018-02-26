@@ -1,3 +1,5 @@
+package Oll;
+
 public class nan {
     public static void main(String[] args) {
         Float fl1 = new Float(Float.NaN);

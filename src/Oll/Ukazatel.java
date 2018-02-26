@@ -1,3 +1,5 @@
+package Oll;
+
 public class Ukazatel {
     public static void doIt(String String) {
         int i = 10;
