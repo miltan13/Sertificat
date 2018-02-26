@@ -1,3 +1,5 @@
+package Oll;
+
 public class Main {
 
     public static void method (int... a) {
